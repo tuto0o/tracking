@@ -35,5 +35,4 @@ class AdminSolicitudesController extends \BaseController {
 		
 		return View::make('listaSolicitudes', $data);
 	}
-		
 }

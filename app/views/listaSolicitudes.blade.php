@@ -118,7 +118,7 @@
     </li>
     
     <li class="active">
-      <a href="{{ URL::to('compraSolicitudes') }}">
+      <a href="{{ URL::to('administrarSolicitudes') }}">
         <i class="menu-icon fa fa-caret-right"></i>
         Administrar Solicitudes
       </a>
